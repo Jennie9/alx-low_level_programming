@@ -1,1 +1,1 @@
-0x06-pointers_arrays_strings
+0x06 C - MOre pointers arrays and strings
